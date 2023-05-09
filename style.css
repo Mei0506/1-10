@@ -74,10 +74,9 @@ footer {
   }
   
   .box {
-    width: auto;
-    padding-left: 2%;
-    padding-right: 2%;
-    margin-right: initial;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
     margin-bottom: 20px;
   }
   
